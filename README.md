@@ -1,10 +1,10 @@
 # mysql
 
-First we initialize the document using Node
+First we initialize the document using Node.
 ![Image of initial] (first.png)
 
 
-We are given a selection of products to purchase
+We are given a selection of products to purchase.
 ![Image of products] (second.png)
 
 
